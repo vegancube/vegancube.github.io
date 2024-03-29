@@ -2,6 +2,7 @@
 <header class="bg-dark py-5">
     <div class="container px-5">
         <div class="row gx-5 align-items-center justify-content-center">
+            <a class="d-xl-none" href="{{ lh.image.link }}"><img class="img-fluid rounded-3" src="{{ lh.image.src }}" alt="..." target="{{ lh.image.target }}"/></a>
             <div class="col-lg-8 col-xl-7 col-xxl-6">
                 <div class="my-5 text-center text-xl-start">
                     <h1 class="display-5 fw-bolder text-white mb-2">{{ lh.title }}</h1>
@@ -12,11 +13,9 @@
                     </div>
                 </div>
             </div>
-            {% if lh.image %}
             <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center">
                 <a href="{{ lh.image.link }}"><img class="img-fluid rounded-3 my-5" src="{{ lh.image.src }}" alt="..." target="{{ lh.image.target }}"/></a>
             </div>
-            {% endif %}
         </div>
     </div>
 </header>

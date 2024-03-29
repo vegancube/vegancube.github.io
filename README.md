@@ -14,4 +14,5 @@
 ## Design
 
 - purple: #ab45ff
+- light purple: #ab80ff
 - green: #44fe1d

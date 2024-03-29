@@ -1,4 +1,3 @@
-navbar_name = 'Vegan Cube'
 navbar_items = (
     {'label': 'Home', 'link': 'index.html'},
     {'label': 'Films', 'link': 'films.html'},
