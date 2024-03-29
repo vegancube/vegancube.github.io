@@ -1,3 +1,4 @@
+import shutil
 from pathlib import Path
 from importlib import import_module
 
@@ -37,6 +38,8 @@ def main():
             base = import_module(f'{lang}.base')
             with open(dirpath / f'{page}.html', 'w') as f:
                 f.write(render(lang, page, base))
+
+    shutil.copyfile(BASEDIR / CFG.first_lang / 'index.html', BASEDIR / 'index.html')
 
 
 if __name__ == '__main__':
