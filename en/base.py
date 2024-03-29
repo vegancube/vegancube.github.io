@@ -1,9 +1,10 @@
 navbar_name = 'Vegan Cube'
 navbar_items = (
     {'label': 'Home', 'link': 'index.html'},
-    {'label': 'Movies', 'link': 'movies.html'},
+    {'label': 'Films', 'link': 'films.html'},
     {'label': 'Books', 'link': 'books.html'},
     {'label': 'Apps', 'link': 'apps.html'},
+    {'label': 'Statistics', 'link': 'stat.html'},
 )
 
 lang_current = 'English'
