@@ -39,8 +39,6 @@ def main():
             with open(dirpath / f'{page}.html', 'w') as f:
                 f.write(render(lang, page, base))
 
-    shutil.copyfile(BASEDIR / CFG.first_lang / 'index.html', BASEDIR / 'index.html')
-
 
 if __name__ == '__main__':
     main()

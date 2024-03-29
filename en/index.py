@@ -22,7 +22,7 @@ landheader = {
 }
 
 features = {
-    'label': 'What kind of resource is suitable for you?',
+    'label': 'What is your media?',
     'features': (
         {'title': 'Films', 'link': 'films.html', 'icon': 'bi-film', 'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at tincidunt nisi. Aenean dui odio, blandit at semper a, finibus vitae nulla.'},
         {'title': 'Books', 'link': 'books.html', 'icon': 'bi-book', 'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at tincidunt nisi. Aenean dui odio, blandit at semper a, finibus vitae nulla.'},
