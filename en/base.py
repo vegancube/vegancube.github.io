@@ -1,14 +1,14 @@
 navbar_items = (
-    {'label': 'Home', 'link': 'index.html'},
-    {'label': 'Films', 'link': 'films.html'},
-    {'label': 'Books', 'link': 'books.html'},
-    {'label': 'Apps', 'link': 'apps.html'},
-    {'label': 'Statistics', 'link': 'stat.html'},
+    {'label': 'Home', 'link': '/en'},
+    {'label': 'Films', 'link': '/en/films.html'},
+    {'label': 'Books', 'link': '/en/books.html'},
+    {'label': 'Apps', 'link': '/en/apps.html'},
+    {'label': 'Statistics', 'link': '/en/stat.html'},
 )
 
 lang_current = 'English'
 lang_choice = (
-    {'label': 'Polski', 'link': '../pl/index.html'},
-    {'label': 'Українська', 'link': '../uk/index.html'},
-    {'label': 'Русский', 'link': '../ru/index.html'},
+    {'label': 'Polski', 'link': '/pl'},
+    {'label': 'Українська', 'link': '/uk'},
+    {'label': 'Русский', 'link': '/ru'},
 )
