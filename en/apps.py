@@ -1,7 +1,7 @@
 from .base import *
 
 
-cards_label = 'Useful apps and other resources'
+cards_label = 'Recipes and other useful resources'
 card_height = 210
 cards = (
     {'title': 'Happy Cow',
