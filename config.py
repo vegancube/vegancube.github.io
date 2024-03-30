@@ -1,5 +1,5 @@
 languages = 'en', 'pl', 'ru', 'uk'
 
 pages = (
-    'index', 'films'
+    'index', 'films', 'books'
 )

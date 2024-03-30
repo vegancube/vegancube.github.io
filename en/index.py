@@ -11,7 +11,7 @@ landheader = {
     },
     'btn2': {
         'label': 'More films',
-        'link': 'films.html',
+        'link': '/en/films.html',
         'target': '_self',
     },
     'image': {
