@@ -24,9 +24,9 @@ landheader = {
 features = {
     'label': 'What is your media?',
     'features': (
-        {'title': 'Films', 'link': 'films.html', 'icon': 'bi-film', 'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at tincidunt nisi. Aenean dui odio, blandit at semper a, finibus vitae nulla.'},
+        {'title': 'Films', 'link': 'films.html', 'icon': 'bi-film', 'description': 'Curated list of the best films about animal liberation.'},
         {'title': 'Books', 'link': 'books.html', 'icon': 'bi-book', 'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at tincidunt nisi. Aenean dui odio, blandit at semper a, finibus vitae nulla.'},
-        {'title': 'Apps', 'link': 'apps.html', 'icon': 'bi-layout-wtf', 'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at tincidunt nisi. Aenean dui odio, blandit at semper a, finibus vitae nulla.'},
+        {'title': 'Apps', 'link': 'apps.html', 'icon': 'bi-layout-wtf', 'description': 'Useful applications and websites, like restaurants locator or a recipes catalog.'},
         {'title': 'Statistics', 'link': 'stat.html', 'icon': 'bi-bar-chart-line', 'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at tincidunt nisi. Aenean dui odio, blandit at semper a, finibus vitae nulla.'},
     ),
 }
