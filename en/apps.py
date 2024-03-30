@@ -1,6 +1,7 @@
 from .base import *
 
 
+html_title = 'Recipes and Apps'
 cards_label = 'Recipes and other useful resources'
 card_height = 210
 cards = (

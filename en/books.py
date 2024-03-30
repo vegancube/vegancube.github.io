@@ -1,6 +1,7 @@
 from .base import *
 
 
+html_title = 'Books'
 cards_label = 'Selected Books'
 card_height = 450
 cards = (

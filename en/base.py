@@ -1,3 +1,4 @@
+navbar_logo_link = '/en'
 navbar_items = (
     {'label': 'Home', 'link': '/en'},
     {'label': 'Films', 'link': '/en/films.html'},

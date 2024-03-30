@@ -1,8 +1,8 @@
 from .base import *
 
 
+html_title = 'Films'
 cards_label = 'Selected Films'
-
 cards = (
     {'title': 'Earthlings',
      'subtitle': '2005',

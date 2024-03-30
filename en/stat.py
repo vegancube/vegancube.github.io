@@ -1,7 +1,8 @@
 from .base import *
 
 
-cards_label = 'Global statistics'
+html_title = 'Global statistics'
+cards_label = html_title
 card_height = 210
 cards = (
     {'title': 'Half of the world’s habitable land is used for agriculture',
