@@ -1,6 +1,6 @@
 {% if cards %}
 <div class="container px-5 py-3">
-    <h2 class="fw-bolder fs-5 mb-4">Selected Films{{ label if label else '' }}</h2>
+    {% if cards_label %}<h2 class="fw-bolder fs-5 mb-4">{{ cards_label }}</h2>{% endif %}
     <div class="row gx-3">
         {% for c in cards %}
         <div class="col-lg-3 col-md-4 col-sm-6 mb-5">
