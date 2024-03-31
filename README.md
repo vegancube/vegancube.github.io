@@ -7,9 +7,9 @@
 
 ## How to build
 
-1. Change files in `templates/`
+1. Change html files in `templates/` or py files in `{language}/`
 1. Run `python build.py`
-1. Commit, push
+1. Check, commit, push
 
 ## Design
 

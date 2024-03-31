@@ -37,3 +37,9 @@ testimonial = {
     'author_descr': 'American actress',
     'image': '../templates/assets/natalie.jpg',
 }
+
+contact = {
+    'title': 'Contact',
+    'follow_us': 'Follow us',
+    'donations': 'Donations',
+}
