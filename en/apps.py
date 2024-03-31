@@ -21,7 +21,7 @@ cards = (
      'subtitle': 'Recipes, Youtube',
      'link': 'https://www.youtube.com/@RainbowPlantLife',
      'preview': 'https://yt3.googleusercontent.com/s8S02CZx4eWOyIP9-P2LL0_oOJxYFraPOTz-r-a7eyIyu2Y1IvVKmI12Be1jdVBqNp5fdYUjUw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj',
-     'description': "Nisha shares everything from fancy date-night meals to Indian dishes from my childhood to meal prep guides that will help you eat well all week long. My goal is for you to become the best plant-based home cook you can be.",
+     'description': "Nisha shares everything from fancy date-night meals to Indian dishes from her childhood to meal prep guides that will help you eat well all week long. Her goal is for you to become the best plant-based home cook you can be.",
     },
     {'title': 'Andrew Bernard | The Nard Dog Cooks',
      'subtitle': 'Recipes, Youtube',
