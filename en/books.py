@@ -17,4 +17,10 @@ cards = (
      'preview': 'https://upload.wikimedia.org/wikipedia/en/2/26/Animal_Liberation%2C_1975_edition.jpg',
      'description': "In this book, Singer discusses the evolution of the animal rights movement and the extent to which his own views have changed, updating his account of what is being done to animals in the laboratory or on the farm.",
     },
+    {'title': 'Meat Is for Pussies',
+     'subtitle': 'by John Joseph, 2014',
+     'link': 'https://books.google.com/books?id=RjMGAwAAQBAJ&printsec=frontcover&cad=0',
+     'preview': 'https://books.google.com/books/publisher/content?id=RjMGAwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE737XPJgbAIyxk0ZZHFpUG0STro7a9dOLbvYRDNA0_njaQ3HgwlHqvmjcUcc49wQtMN5QE3UPvHwbOShtVSwPsXk8iLYqwrJ2DT_lgYMlJC-sSbnaGt_k7M3FTdTIUajHCIB3HYy',
+     'description': "The author offers both personal and scientific evidence that a plant-based diet offers the best path to athleticism, endurance, strength, and overall health. In addition to dispelling the myths surrounding meat, Joseph offers workout advice, a meal plan, and recipes that make going plant-based easy.",
+    },
 )
