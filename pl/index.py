@@ -24,18 +24,18 @@ landheader = {
 features = {
     'label': 'Jakie są Twoje media?',
     'features': (
-        {'title': 'Films', 'link': 'films.html', 'icon': 'bi-film', 'description': 'Lista najlepszych filmów o wyzwoleniu zwierząt'},
-        {'title': 'Books', 'link': 'books.html', 'icon': 'bi-book', 'description': 'Najlepsze książki o weganizmie i środowisku'},
-        {'title': 'Recipes and other apps', 'link': 'apps.html', 'icon': 'bi-layout-wtf', 'description': 'Przydatne aplikacje i strony internetowe, takie jak lokalizator restauracji lub katalog przepisów kulinarnych'},
-        {'title': 'Statistics', 'link': 'stat.html', 'icon': 'bi-bar-chart-line', 'description': 'Rolnictwo i dane ekologiczne'},
+        {'title': 'Filmy', 'link': 'films.html', 'icon': 'bi-film', 'description': 'Lista najlepszych filmów o wyzwoleniu zwierząt'},
+        {'title': 'Książki', 'link': 'books.html', 'icon': 'bi-book', 'description': 'Najlepsze książki o weganizmie i środowisku'},
+        {'title': 'Przepisy i inne aplikacje', 'link': 'apps.html', 'icon': 'bi-layout-wtf', 'description': 'Przydatne aplikacje i strony internetowe, takie jak lokalizator restauracji lub katalog przepisów kulinarnych'},
+        {'title': 'Statystyka', 'link': 'stat.html', 'icon': 'bi-bar-chart-line', 'description': 'Rolnictwo i dane ekologiczne'},
     ),
 }
 
 testimonial = {
-    'text': '“We’re exploiting female bodies and abusing the magic of female animals to create eggs and milk. It doesn’t take a lot to draw the line from how we treat animals to how we treat humans.”',
-    'author': 'Natalie Portman',
-    'author_descr': 'American actress',
-    'image': '../templates/assets/natalie.jpg',
+    'text': '“Pod względem intelektualnym ludzie i zwierzęta mogą się różnić, ale jest oczywiste, że zwierzęta mają bogate życie emocjonalne, czują radość i ból. Bardzo prosto ludziom zapomnieć o prostej zależności pomiędzy hamburgerem a krową, z której on pochodzi.”',
+    'author': 'Moby',
+    'author_descr': 'muzyk',
+    'image': '../templates/assets/moby_face.jpg',
 }
 
 contact = {
