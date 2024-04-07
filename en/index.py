@@ -15,7 +15,7 @@ landheader = {
         'target': '_self',
     },
     'image': {
-        'src': 'https://www.dominionmovement.com/images/video-frame.jpg',
+        'src': '../templates/assets/dominion.jpg',
         'link': 'https://www.youtube.com/watch?v=LQRAfJyEsko',
         'target': '_blank',
     },
@@ -32,10 +32,10 @@ features = {
 }
 
 testimonial = {
-    'text': '“We’re exploiting female bodies and abusing the magic of female animals to create eggs and milk. It doesn’t take a lot to draw the line from how we treat animals to how we treat humans.”',
-    'author': 'Natalie Portman',
-    'author_descr': 'American actress',
-    'image': '../templates/assets/natalie.jpg',
+    'text': '“It takes nothing away from a human to be kind to an animal.”',
+    'author': 'Joaquin Phoenix',
+    'author_descr': 'American actor',
+    'image': '../templates/assets/joaquin.jpg',
 }
 
 contact = {
