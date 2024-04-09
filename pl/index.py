@@ -15,7 +15,7 @@ landheader = {
         'target': '_self',
     },
     'image': {
-        'src': 'https://www.dominionmovement.com/images/video-frame.jpg',
+        'src': '../templates/assets/dominion.jpg',
         'link': 'https://www.youtube.com/watch?v=LQRAfJyEsko',
         'target': '_blank',
     },
