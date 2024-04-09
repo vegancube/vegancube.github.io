@@ -8,7 +8,7 @@ cards = (
     {'title': 'Happy Cow',
      'subtitle': 'Mobile app and website',
      'link': 'https://www.happycow.net',
-     'preview': 'https://www.happycow.net/img/app-page/large/cover-phone-2.png',
+     'preview': '../templates/assets/happycow.png',
      'description': "Find vegan restaurants nearby.",
     },
     {'title': 'We Cook Vegan',

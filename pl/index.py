@@ -26,7 +26,7 @@ features = {
     'features': (
         {'title': 'Filmy', 'link': 'films.html', 'icon': 'bi-film', 'description': 'Lista najlepszych filmów o wyzwoleniu zwierząt'},
         {'title': 'Książki', 'link': 'books.html', 'icon': 'bi-book', 'description': 'Najlepsze książki o weganizmie i środowisku'},
-        {'title': 'Przepisy i inne aplikacje', 'link': 'apps.html', 'icon': 'bi-layout-wtf', 'description': 'Przydatne aplikacje i strony internetowe, takie jak lokalizator restauracji lub katalog przepisów kulinarnych'},
+        {'title': 'Dietetyka i inne', 'link': 'apps.html', 'icon': 'bi-layout-wtf', 'description': 'Przydatne aplikacje i strony internetowe: dietetyka, przepisy, sport, lokalizator restauracji, inne'},
         {'title': 'Statystyka', 'link': 'stat.html', 'icon': 'bi-bar-chart-line', 'description': 'Rolnictwo i dane ekologiczne'},
     ),
 }
