@@ -9,11 +9,11 @@ landheader = {
         'link': 'https://www.youtube.com/watch?v=JnphWWm-mTU',
         'target': '_blank',
     },
-    'btn2': {
-        'label': 'Більше фільмів',
-        'link': '/uk/films.html',
-        'target': '_self',
-    },
+    # 'btn2': {
+    #     'label': 'Більше фільмів',
+    #     'link': '/uk/films.html',
+    #     'target': '_self',
+    # },
     'image': {
         'src': '../templates/assets/earthlings.jpg',
         'link': 'https://www.youtube.com/watch?v=JnphWWm-mTU',
