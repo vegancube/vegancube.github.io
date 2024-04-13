@@ -1,14 +1,14 @@
 navbar_name = 'Vegan Cube'
 navbar_items = (
-    {'label': 'Home', 'link': 'index.html'},
-    {'label': 'Movies', 'link': 'films.html'},
-    {'label': 'Books', 'link': 'books.html'},
-    {'label': 'Apps', 'link': 'apps.html'},
+    {'label': 'Головна', 'link': 'index.html'},
+    {'label': 'Фільми', 'link': 'films.html'},
+    {'label': 'Книги', 'link': 'books.html'},
+    {'label': 'Додатки', 'link': 'apps.html'},
 )
 
 lang_current = 'Українська'
 lang_choice = (
-    {'label': 'Polski', 'link': '../pl/index.html'},
-    {'label': 'Русский', 'link': '../ru/index.html'},
-    {'label': 'English', 'link': '../en/index.html'},
+    {'label': 'Polski', 'link': '../pl/'},
+    {'label': 'Русский', 'link': '../ru/'},
+    {'label': 'English', 'link': '../en/'},
 )
