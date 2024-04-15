@@ -11,7 +11,7 @@ landheader = {
     },
     'btn2': {
         'label': 'More films',
-        'link': '/en/films.html',
+        'link': 'films.html',
         'target': '_self',
     },
     'image': {
@@ -22,7 +22,7 @@ landheader = {
 }
 
 features = {
-    'label': 'What is your media?',
+    'label': "We recommend",
     'features': (
         {'title': 'Films', 'link': 'films.html', 'icon': 'bi-film', 'description': 'Curated list of the best films about animal liberation'},
         {'title': 'Books', 'link': 'books.html', 'icon': 'bi-book', 'description': 'Best books about veganism and environment'},

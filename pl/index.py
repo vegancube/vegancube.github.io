@@ -11,7 +11,7 @@ landheader = {
     },
     'btn2': {
         'label': 'Więcej filmów',
-        'link': '/pl/films.html',
+        'link': 'films.html',
         'target': '_self',
     },
     'image': {
@@ -22,7 +22,7 @@ landheader = {
 }
 
 features = {
-    'label': 'Jakie są Twoje media?',
+    'label': 'Polecamy',
     'features': (
         {'title': 'Filmy', 'link': 'films.html', 'icon': 'bi-film', 'description': 'Lista najlepszych filmów o wyzwoleniu zwierząt'},
         {'title': 'Książki', 'link': 'books.html', 'icon': 'bi-book', 'description': 'Najlepsze książki o weganizmie i środowisku'},
