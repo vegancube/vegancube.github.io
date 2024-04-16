@@ -17,7 +17,7 @@ cards = (
      'preview': '../templates/assets/cages_ua.jpg',
      'description': "«Відкриті клітки Україна» є частиною міжнародної ініціативи з захисту прав тварин, що перебувають на промислових фермах.",
     },
-    {'title': '100% робочі веган рецепти',
+    {'title': '100% робочі веган-рецепти',
      'subtitle': 'Рецепты, Instagram',
      'link': 'https://www.instagram.com/faina_veganka/',
      'preview': '../templates/assets/faina.jpg',
