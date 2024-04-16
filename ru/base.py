@@ -1,6 +1,6 @@
 navbar_name = 'Vegan Cube'
 navbar_items = (
-    {'label': 'Главная', 'link': 'index.html'},
+    {'label': 'Главная', 'link': '/ru'},
     {'label': 'Фильмы', 'link': 'films.html'},
     {'label': 'Книги', 'link': 'books.html'},
     {'label': 'Приложения', 'link': 'apps.html'},
