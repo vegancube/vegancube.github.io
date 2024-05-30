@@ -41,4 +41,10 @@ cards = (
      'preview': '../templates/assets/nutritionfacts_dr-greger.jpg',
      'description': "Find out what the latest science is saying about your favorite foods to help you make the healthiest choices for you and your family.",
     },
+    {'title': 'The Vegan Calculator',
+     'subtitle': 'Website',
+     'link': 'https://thevegancalculator.com/',
+     'preview': '../templates/assets/calculator.png',
+     'description': "A Vegan lifestyle saves animals, the environment & much more. Calculate how much you've saved.",
+    },
 )

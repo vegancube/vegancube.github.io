@@ -112,4 +112,10 @@ cards = (
      'preview': '../templates/assets/blackfish.jpg',
      'description': "The documentary concerns the captivity of Tilikum, an orca involved in the deaths of three individuals, and the consequences of keeping orcas in captivity. The coverage of Tilikum includes his capture in 1983 off the coast of Iceland and his purported harassment by fellow captive orcas at Sealand of the Pacific.",
     },
+    {'title': 'Forks Over Knives',
+     'subtitle': '2011',
+     'link': 'https://www.forksoverknives.com/the-film/',
+     'preview': '../templates/assets/forksoverknives.png',
+     'description': "What if one simple change could save you from chronic diseases such as diabetes and heart disease? Take a deep dive into the plant-based diet documentary that has influenced millions around the world.",
+    },
 )

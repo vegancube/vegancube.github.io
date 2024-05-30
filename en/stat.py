@@ -35,4 +35,10 @@ cards = (
      'preview': 'https://ourworldindata.org/images/published/Land-use-of-different-diets-Poore-Nemecek_1350.png',
      'description': "If the world adopted a plant-based diet, we would reduce global agricultural land use from 4 to 1 billion hectares",
     },
+    {'title': '‘The anti-livestock people are a pest’: how UN food body played down role of farming in climate change',
+     'subtitle': 'The Guardian',
+     'link': 'https://www.theguardian.com/environment/2023/oct/20/the-anti-livestock-people-are-a-pest-how-un-fao-played-down-role-of-farming-in-climate-change',
+     'preview': '../templates/assets/un_guardian.png',
+     'description': "Ex-officials at the Food and Agriculture Organization say its leadership censored and undermined them when they highlighted how livestock methane is a major greenhouse gas.",
+    },
 )
